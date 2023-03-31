@@ -1,0 +1,2 @@
+# A Simple Titter Scrapper App
+##### This simple app scrapes tweets from twitter and shows it in dataframe format and in json format too. You can specify a  keyword and the app searches based on this keyword you can even specify from and till date and you can mention the number of tweets. The scraped data gets stored in the local sql server finally you can download the tweets in both dataframe and in json form as per you requirements.

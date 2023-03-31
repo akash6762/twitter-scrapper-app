@@ -1,0 +1,16 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: win-64
+mysql-connector-python=8.0.31=py311hc774530_2
+numpy=1.24.2=pypi_0
+pandas=1.5.3=pypi_0
+pip=23.0.1=pyhd8ed1ab_0
+pipreqs=0.4.11=pyhd8ed1ab_0
+python=3.11.0=hcf16a7b_0_cpython
+snscrape=0.6.2.20230320=pypi_0
+streamlit=1.20.0=pypi_0
+
+
+
+
+
